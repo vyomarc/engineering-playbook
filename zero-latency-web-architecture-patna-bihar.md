@@ -674,13 +674,3 @@ Every month you delay, your Tier-2 mobile traffic — the majority of your marke
 </div>
 
 ---
-
-```
-
----
-
-<div align="center">
-
-<sub>© Vyomarc Technologies · Patna, Bihar · <a href="https://vyomarctech.com">vyomarctech.com</a></sub>
-
-</div>
